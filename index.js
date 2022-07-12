@@ -65,7 +65,9 @@ function writeToFile(fileName, data) {
 }
 
 // TODO: Create a function to initialize app
-function init() { }
+// function init() { 
+//     console.log('init')
+// }
 
 // Function call to initialize app
-init();
+// init();
