@@ -78,7 +78,7 @@ This Challenge is graded based on the following criteria:
 * Repository contains a high-quality README with description and a link to walkthrough video.
 
 
-## Review
+## Installation
 
 You are required to submit the following for review:
 
