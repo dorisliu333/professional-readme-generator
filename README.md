@@ -14,33 +14,30 @@
 | [5. Test Instruction](#Test-Instruction)     | 
 | [6. Question](#Question)                     | 
 
-
-
-
 ## Installation Instrucrion
-
+${installation}
 
 ## Usage
-
-
+${usage}
 
 ## License
-
+${license}
 
 ## Contribution
-
+${contribution}
 
 
 ## Test Instruction
-
+${test}
 
 
 
 
 ## Question
-
-
+### contact
+* git hub: 'https://github.com/'+${github}
+* email: ${email}
 
 ---
 
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+© Chujun Liu
