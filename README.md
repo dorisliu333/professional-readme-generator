@@ -1,10 +1,11 @@
- # Project: h
-
+ # Project: kk
+  <img src='https://img.shields.io/badge/license-%7BGPL%7D-blue.svg'> 
+  
   ## Description
-  *h*
+  *kk*
   
   ## Content
-  | Project Content  | 
+  | Navigation  | 
   | ---------------- |
   | [1. Installation Instruction](#Installation-Instrucrion) | 
   | [2. Usage](#Usage)                           | 
@@ -14,29 +15,28 @@
   | [6. Question](#Question)                     | 
   
   ## Installation Instrucrion
-  * h
+  * kk
   
   ## Usage
-  * h
+  * kk
   
   ## License
-  * MIT 
-  * <img src='https://img.shields.io/badge/license-%7BMIT%7D-blue.svg'> 
-  * [click here to know more](https://en.wikipedia.org/wiki/MIT_License)
+  * GPL  
+  * The GNU General Public License (GNU GPL or simply GPL) is a series of widely used free software licenses that guarantee end users the four freedoms to run, study, share, and modify the software. The license was the first copyleft for general use and were originally written by the founder of the Free Software Foundation (FSF), Richard Stallman, for the GNU Project. The license grants the recipients of a computer program the rights of the Free Software Definition.[click here to know more](https://en.wikipedia.org/wiki/GPL_License)
 
 
   ## Contribution
-  * h
+  * jj
   
   ## Test Instruction
-  * h
+  * jj
   
   ## Question
   ### contact
-  * git hub: [https://github.com/h](https://github.com/h)
-  * email: h
+  * git hub: [https://github.com/jj](https://github.com/jj)
+  * email: jj
   
   ---
   
-  © Chujun Liu
+  © professional readme file generator
   
