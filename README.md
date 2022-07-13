@@ -32,7 +32,7 @@
   
   ## Question
   ### contact
-  * git hub: [https://github.com/+dorisliu113]('https://github.com/+dorisliu113')
+  * git hub: [https://github.com/+dorisliu113]('https://github.com/dorisliu113')
   * email: dorisliu113@gmail.com
   
   ---
