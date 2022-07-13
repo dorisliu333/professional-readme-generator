@@ -22,8 +22,9 @@ function renderLicenseSection(license) {
   if (license) {
     let licenseBadge = renderLicenseBadge(license);
     let licenseLink = renderLicenseLink(license);
-    return`* ${license} <img src='${licenseBadge}'>
-    * [click here to know more](${licenseLink})`
+    return`* ${license} 
+  * <img src='${licenseBadge}'> 
+  * [click here to know more](${licenseLink})`
   }
   return '';
 }
@@ -53,7 +54,8 @@ function generateMarkdown({ title, description, installation, usage, license, co
   * ${usage}
   
   ## License
-  ${licenseContent}
+${licenseContent}
+
 
   ## Contribution
   * ${contribution}

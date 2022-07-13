@@ -1,7 +1,7 @@
-# Project: weather dashboard
+# Project: j
 
   ## Description
-  *to check weather from worldwide*
+  *j*
   
   ## Content
   | Project Content  | 
@@ -14,26 +14,27 @@
   | [6. Question](#Question)                     | 
   
   ## Installation Instrucrion
-  * apple store
+  * j
   
   ## Usage
-  * 1g
+  * j
   
   ## License
-  
-  * Apache <img src='https://img.shields.io/badge/license-%7BApache%7D-blue.svg'>
+* Apache 
+  * <img src='https://img.shields.io/badge/license-%7BApache%7D-blue.svg'> 
   * [click here to know more](https://en.wikipedia.org/wiki/Apache_License)
 
+
   ## Contribution
-  * daily lifr
+  * j
   
   ## Test Instruction
-  * nope
+  * j
   
   ## Question
   ### contact
-  * git hub: [https://github.com/doris](https://github.com/doris)
-  * email: doris@gmail.com
+  * git hub: [https://github.com/j](https://github.com/j)
+  * email: j
   
   ---
   
