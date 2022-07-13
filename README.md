@@ -1,7 +1,7 @@
-# Project: j
+ # Project: h
 
   ## Description
-  *j*
+  *h*
   
   ## Content
   | Project Content  | 
@@ -14,27 +14,27 @@
   | [6. Question](#Question)                     | 
   
   ## Installation Instrucrion
-  * j
+  * h
   
   ## Usage
-  * j
+  * h
   
   ## License
-* Apache 
-  * <img src='https://img.shields.io/badge/license-%7BApache%7D-blue.svg'> 
-  * [click here to know more](https://en.wikipedia.org/wiki/Apache_License)
+  * MIT 
+  * <img src='https://img.shields.io/badge/license-%7BMIT%7D-blue.svg'> 
+  * [click here to know more](https://en.wikipedia.org/wiki/MIT_License)
 
 
   ## Contribution
-  * j
+  * h
   
   ## Test Instruction
-  * j
+  * h
   
   ## Question
   ### contact
-  * git hub: [https://github.com/j](https://github.com/j)
-  * email: j
+  * git hub: [https://github.com/h](https://github.com/h)
+  * email: h
   
   ---
   

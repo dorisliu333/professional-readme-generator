@@ -32,7 +32,7 @@ function renderLicenseSection(license) {
 // TODO: Create a function to generate markdown for README
 function generateMarkdown({ title, description, installation, usage, license, contribution, test, github, email }) {
   let licenseContent = renderLicenseSection(license);
-  return `# Project: ${title}
+  return ` # Project: ${title}
 
   ## Description
   *${description}*
@@ -54,7 +54,7 @@ function generateMarkdown({ title, description, installation, usage, license, co
   * ${usage}
   
   ## License
-${licenseContent}
+  ${licenseContent}
 
 
   ## Contribution
