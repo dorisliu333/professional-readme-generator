@@ -1,7 +1,7 @@
-# Project: my new project
+# Project: weather dashboard
 
   ## Description
-  *my descriptiom*
+  *to check weather from worldwide*
   
   ## Content
   | Project Content  | 
@@ -14,26 +14,26 @@
   | [6. Question](#Question)                     | 
   
   ## Installation Instrucrion
-  * nope
+  * apple store
   
   ## Usage
-  * nope
+  * 1g
   
   ## License
   
-    * Apache <img src=https://img.shields.io/badge/license-%7BApache%7D-blue.svg>
-    * [click here to know more](#https://en.wikipedia.org/wiki/Apache_License)
+    * Apache <img src='https://img.shields.io/badge/license-%7BApache%7D-blue.svg'>
+    * [click here to know more](https://en.wikipedia.org/wiki/Apache_License)
 
   ## Contribution
-  * contribution
+  * daily lifr
   
   ## Test Instruction
   * nope
   
   ## Question
   ### contact
-  * git hub: [https://github.com/+dorisliu113]('https://github.com/dorisliu113')
-  * email: dorisliu113@gmail.com
+  * git hub: [https://github.com/doris](https://github.com/doris)
+  * email: doris@gmail.com
   
   ---
   
