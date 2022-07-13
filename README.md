@@ -21,8 +21,8 @@
   
   ## License
   
-    * Apache <img src='https://img.shields.io/badge/license-%7BApache%7D-blue.svg'>
-    * [click here to know more](https://en.wikipedia.org/wiki/Apache_License)
+  * Apache <img src='https://img.shields.io/badge/license-%7BApache%7D-blue.svg'>
+  * [click here to know more](https://en.wikipedia.org/wiki/Apache_License)
 
   ## Contribution
   * daily lifr

@@ -22,8 +22,7 @@ function renderLicenseSection(license) {
   if (license) {
     let licenseBadge = renderLicenseBadge(license);
     let licenseLink = renderLicenseLink(license);
-    return`
-    * ${license} <img src='${licenseBadge}'>
+    return`* ${license} <img src='${licenseBadge}'>
     * [click here to know more](${licenseLink})`
   }
   return '';
