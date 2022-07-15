@@ -36,6 +36,8 @@
   * git hub: [https://github.com/Chujun Liu](https://github.com/Chujun Liu)
   * email: dorisliu113@gmail.com
   
+  ### Workthrough video link
+  https://drive.google.com/file/d/1BOwKFQ5vNWZJJ_mTrUiMaULsMiktwO0T/view?usp=sharing
   ---
   
   © professional readme file generator
