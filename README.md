@@ -1,8 +1,8 @@
- # Project: kk
-  <img src='https://img.shields.io/badge/license-%7BGPL%7D-blue.svg'> 
+ # Project: Professional readme file generator
+  <img src='https://img.shields.io/badge/license-%7BMIT%7D-blue.svg'> 
   
   ## Description
-  *kk*
+  *can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.*
   
   ## Content
   | Navigation  | 
@@ -15,26 +15,26 @@
   | [6. Question](#Question)                     | 
   
   ## Installation Instrucrion
-  * kk
+  * n/a
   
   ## Usage
-  * kk
+  * n/a
   
   ## License
-  * GPL  
-  * The GNU General Public License (GNU GPL or simply GPL) is a series of widely used free software licenses that guarantee end users the four freedoms to run, study, share, and modify the software. The license was the first copyleft for general use and were originally written by the founder of the Free Software Foundation (FSF), Richard Stallman, for the GNU Project. The license grants the recipients of a computer program the rights of the Free Software Definition.[click here to know more](https://en.wikipedia.org/wiki/GPL_License)
+  * MIT  
+  * The MIT License is a permissive free software license originating at the Massachusetts Institute of Technology (MIT) in the late 1980s. As a permissive license, it puts only very limited restriction on reuse and has, therefore, high license compatibility. [click here to know more](https://en.wikipedia.org/wiki/MIT_License)
 
 
   ## Contribution
-  * jj
+  * n/a
   
   ## Test Instruction
-  * jj
+  * n/a
   
   ## Question
   ### contact
-  * git hub: [https://github.com/jj](https://github.com/jj)
-  * email: jj
+  * git hub: [https://github.com/Chujun Liu](https://github.com/Chujun Liu)
+  * email: dorisliu113@gmail.com
   
   ---
   
